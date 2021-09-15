@@ -1,0 +1,2 @@
+com/beta/replyservice/RestServiceApplicationTest.java
+ com.beta.replyservice.RestServiceApplicationTest
